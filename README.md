@@ -1,0 +1,1 @@
+This repo contains various machine learning models such as Linear Regression, Polynomial Regression, Naive Bayes, K-Fold cross validation, Decision Tree, SVM, K-Means Clustering, Principal component analysis, and a CNN based image classification model
